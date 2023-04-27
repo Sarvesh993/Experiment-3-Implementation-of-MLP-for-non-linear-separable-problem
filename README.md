@@ -39,7 +39,7 @@ Step 3: Repeat the  iteration  until the losses become constant and
              (v)   Append the losses in a list
 Step 4 : Test for the XOR patterns.
 
-** PROGRAM** 
+## PROGRAM
 Developed by: P.Sarveshvaran.
 Registor number: 212221230090
 ```
@@ -113,7 +113,9 @@ predict(w1,w2,test)
 ```
 
 
- **OUTPUT** 
+## OUTPUT:
+```
 ![](p1.png)
-** RESULT**
+```
+## RESULT:
 Thus, a program involving python to implement a perceptron for Implementation of MLP for non linearly separable problem is developed and executted successfully.
