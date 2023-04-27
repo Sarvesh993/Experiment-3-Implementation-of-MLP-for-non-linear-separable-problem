@@ -1,5 +1,5 @@
-# Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem
-**AIM:**
+# Experiment-4-Implementation-of-MLP-for-non-linear-separable-problem
+## AIM:
 
 To implement a perceptron for classification using Python
 
@@ -114,8 +114,8 @@ predict(w1,w2,test)
 
 
 ## OUTPUT:
-```
+
 ![](p1.png)
-```
+
 ## RESULT:
 Thus, a program involving python to implement a perceptron for Implementation of MLP for non linearly separable problem is developed and executted successfully.
